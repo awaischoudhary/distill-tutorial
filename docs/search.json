@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-06-30T16:41:48-04:00"
+      "contents": "\nAbout Me\nMy name is Awais Choudhary and I am senior student\nat White Oaks Secondary School.\nAbout The Project\nTitle of project and description.\nGoals\ngoal 1\ngoal 2\nadditional\n\n“This is data science”\n~preceptor\nKane’s Free High School\nData Science Bootcamp\n\n\n\n",
+      "last_modified": "2022-06-30T17:19:22-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-06-30T16:41:53-04:00"
+      "last_modified": "2022-06-30T17:19:27-04:00"
     }
   ],
   "collections": []

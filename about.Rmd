@@ -7,4 +7,20 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## About Me
+My name is **Awais Choudhary** and I am senior student at White Oaks Secondary School.
+
+## About The Project
+*Title of project* and description.
+
+### Goals
+* goal 1
+* goal 2
+  + additional
+  
+"This is data science"    
+~preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
+
 
